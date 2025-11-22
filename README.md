@@ -15,7 +15,7 @@ Jumper Wires
 
 # Circuit Diagram:
 
-![Uploading image.png…]()
+<img width="1089" height="670" alt="image" src="https://github.com/user-attachments/assets/e1896c4f-d90a-46ac-b76c-c1604ac95d07" />
 
 
 # Theory: 
@@ -134,6 +134,8 @@ long microsecondsToCentimeters(long microseconds) {
 
 
 # Output:
+![Uploading image.png…]()
+
 
 # Result:
 
