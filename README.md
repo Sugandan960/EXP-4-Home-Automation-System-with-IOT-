@@ -134,9 +134,10 @@ long microsecondsToCentimeters(long microseconds) {
 
 
 # Output:
-The Home Automation System with IoT successfully enabled remote monitoring and control of home appliances through the internet.
+
 ![Uploading image.png…]()
 
 
 # Result:
+The Home Automation System with IoT successfully enabled remote monitoring and control of home appliances through the internet.
 
