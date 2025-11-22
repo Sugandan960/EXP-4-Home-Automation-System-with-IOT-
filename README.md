@@ -15,6 +15,8 @@ Jumper Wires
 
 # Circuit Diagram:
 
+![Uploading image.png…]()
+
 
 # Theory: 
 
