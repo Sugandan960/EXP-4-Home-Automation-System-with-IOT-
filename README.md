@@ -135,7 +135,8 @@ long microsecondsToCentimeters(long microseconds) {
 
 # Output:
 
-![Uploading image.png…]()
+<img width="1089" height="670" alt="image" src="https://github.com/user-attachments/assets/a984cb7c-c5ee-42ac-a983-d682d36d91d0" />
+
 
 
 # Result:
